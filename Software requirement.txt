@@ -1,1 +1,6 @@
 Hello
+git config http.sslVerify "false"
+
+git stage .==== git add . + git commit
+
+added commands
