@@ -3,4 +3,7 @@ git config http.sslVerify "false"
 
 git stage .==== git add . + git commit
 
+git config --global credential.helper store
+git pull
+
 added commands
